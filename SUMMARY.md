@@ -17,4 +17,8 @@
   * [01](chapter4/01.md)
   * [02](chapter4/02.md)
   * [03](chapter4/03.md)
+* day05
+  * [01](01.md)
+  * 02
+  * 03
 
