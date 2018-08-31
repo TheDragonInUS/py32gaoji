@@ -5,7 +5,7 @@
   * [01](chapter1/01.md)
   * [02](chapter1/02.md)
   * [03](chapter1/03.md)
-* day02
+* [day02](day02.md)
   * [01](chapter2/01.md)
   * [02](chapter2/02.md)
   * [03](chapter2/03.md)
