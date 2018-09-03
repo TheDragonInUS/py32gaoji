@@ -23,4 +23,8 @@
   * [01](chapter6/01.md)
   * [02](chapter6/02.md)
   * [03](chapter6/03.md)
+* [day07](chapter7/README.md)
+  * [01](chapter7/01.md)
+  * [02](chapter7/02.md)
+  * [03](chapter7/03.md)
 
