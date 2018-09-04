@@ -27,7 +27,7 @@
   * [01](chapter7/01.md)
   * [02](chapter7/02.md)
   * [03](chapter7/03.md)
-* day08
+* [day08](day08.md)
   * [01](chapter8/01.md)
   * [02](chapter8/02.md)
   * [03](chapter8/03.md)
